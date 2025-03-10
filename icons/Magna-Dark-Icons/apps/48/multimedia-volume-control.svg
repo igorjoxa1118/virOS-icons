@@ -6,7 +6,7 @@
    version="1.1"
    id="svg1893"
    sodipodi:docname="multimedia-volume-control.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -23,10 +23,10 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="79.627118"
-     inkscape:cy="49.932203"
+     inkscape:cx="16.677966"
+     inkscape:cy="49.830508"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -358,7 +358,9 @@
        x2="0">
       <stop
          stop-color="#2f3943"
-         id="stop1838-2" />
+         id="stop1838-2"
+         offset="0"
+         style="stop-color:#536577;stop-opacity:1;" />
       <stop
          offset="1"
          stop-color="#808c9b"
@@ -385,7 +387,7 @@
        y2="527.79999"
        gradientUnits="userSpaceOnUse"
        x2="0"
-       gradientTransform="translate(8,-12)" />
+       gradientTransform="translate(8,-11.999982)" />
     <linearGradient
        id="c-9"
        y1="518.79999"
@@ -451,7 +453,6 @@
        x="388.57001"
        y="503.79999"
        stroke-opacity="0.55"
-       fill="url(#a)"
        rx="20"
        height="40"
        stroke-width="2.8"
@@ -476,7 +477,6 @@
          width="32"
          x="392.57001"
          y="507.79999"
-         fill="url(#b)"
          rx="16"
          height="32"
          id="rect1867-7"
@@ -485,7 +485,6 @@
          width="26"
          x="395.57001"
          y="510.79999"
-         fill="url(#e)"
          rx="13"
          height="26"
          id="rect1869-9"
@@ -494,12 +493,12 @@
     <rect
        width="2"
        x="407.57001"
-       y="510.79999"
-       fill="url(#d)"
+       y="510.80002"
        rx="1"
-       height="5"
+       height="14.878938"
        id="rect1873-2"
-       style="fill:url(#d-0)" />
+       style="fill:url(#d-0);stroke-width:0.999999"
+       ry="1" />
     <circle
        fill="url(#c)"
        cx="408.57001"
@@ -514,32 +513,38 @@
          cx="424.57001"
          cy="523.79999"
          r="1"
-         id="circle1877-3" />
+         id="circle1877-3"
+         style="fill:#cfdae2;fill-opacity:1" />
       <circle
          cx="392.57001"
          cy="523.79999"
          r="1"
-         id="circle1879-7" />
+         id="circle1879-7"
+         style="fill:#cfdae2;fill-opacity:1" />
       <circle
          cx="396.57001"
          cy="512.79999"
          r="1"
-         id="circle1881-5" />
+         id="circle1881-5"
+         style="fill:#cfdae2;fill-opacity:1" />
       <circle
          cx="420.57001"
          cy="512.79999"
          r="1"
-         id="circle1883-9" />
+         id="circle1883-9"
+         style="fill:#cfdae2;fill-opacity:1" />
       <circle
          cx="396.57001"
          cy="534.79999"
          r="1"
-         id="circle1885-2" />
+         id="circle1885-2"
+         style="fill:#cfdae2;fill-opacity:1" />
       <circle
          cx="420.57001"
          cy="534.79999"
          r="1"
-         id="circle1887-2" />
+         id="circle1887-2"
+         style="fill:#cfdae2;fill-opacity:1" />
     </g>
   </g>
 </svg>

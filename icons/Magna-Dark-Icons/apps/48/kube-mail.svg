@@ -5,7 +5,7 @@
    version="1.1"
    id="svg158"
    sodipodi:docname="kube-mail.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -22,10 +22,10 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="6.9532167"
-     inkscape:cx="-32.143396"
-     inkscape:cy="50.839779"
+     inkscape:cx="24.880571"
+     inkscape:cy="50.911688"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -35,7 +35,11 @@
        type="xygrid"
        id="grid1992"
        originx="-44.1968"
-       originy="23.68545" />
+       originy="23.68545"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
   </sodipodi:namedview>
   <defs
      id="defs98">
@@ -499,11 +503,13 @@
       <stop
          stop-color="#b5cddc"
          offset="0"
-         id="stop10521-2" />
+         id="stop10521-2"
+         style="stop-color:#7fa9c2;stop-opacity:1;" />
       <stop
          stop-color="#cee0e9"
          offset="1"
-         id="stop10523-9" />
+         id="stop10523-9"
+         style="stop-color:#abcad9;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient1454-1"
@@ -520,7 +526,8 @@
       <stop
          stop-color="#dee6ee"
          offset="1"
-         id="stop10518-7" />
+         id="stop10518-7"
+         style="stop-color:#b6c8da;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="a-0-9"
